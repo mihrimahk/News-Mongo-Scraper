@@ -23,6 +23,7 @@ MongoDB unique fields prevent adding same stories again. Also every articles' im
   *  AJAX
   *  Request
 
+![Result](public/images/comment.png) 
 
 ## How to Use
 When you arrive on the landing page, click "Get News" to scrape the most recent CBC headlines and images from the CBS website. Then, you can scroll down to add comments about the articles or view comments left by other users.
