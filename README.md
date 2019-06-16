@@ -6,6 +6,11 @@ A web app utizilizing Cheerio to scrape the most recent CBC World news from the 
 MongoDB unique fields prevent adding same stories again. Also every articles' image and metadata are displayed.<p>
 
 
+<p align="center">
+<img alt="Mongo News Scraper" src="./public/images/cbc-news-mongo-scrapper.png" style="width: 80px;">
+</p>
+
+
 <h2>Technologies Used</h2>
 <ul>
   <li>Express</li>
