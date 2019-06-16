@@ -5,7 +5,7 @@
 A web app utizilizing Cheerio to scrape the most recent CBC World news from the cbc.ca. Articles are stored in a MongoDB via Mongoose. Users can run a new scrape or add comments on the articles displayed on the page.
 MongoDB unique fields prevent adding same stories again. Also every articles' image and metadata are displayed.
 
-![Result](/public/images/cbc-news-mongo-scrapper.png) 
+![Result](public/images/cbc-news-mongo-scrapper.png) 
 
 
 ## Technologies Used 
